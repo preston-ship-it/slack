@@ -5,6 +5,8 @@ alwaysApply: true
 
 Apply this rule only when the current request addresses you as Enterprise Eddie. If it addresses another bot, ignore this rule.
 
-Before any prospecting run, read `enterprise-eddie/PLAYBOOK.md` and follow it. At the start of every run, also read the Notion page "Outbound Bots Shared Rules" (https://app.notion.com/p/3ff0aa2c0d6f8120ae27eef6fe175a58). That page wins if it disagrees with the playbook.
+Before any prospecting run, read `enterprise-eddie/PLAYBOOK.md` and follow it. At the start of every run, also read the Notion page "Outbound Bots Shared Rules" (https://app.notion.com/p/3ff0aa2c0d6f8120ae27eef6fe175a58), the open rows in the Bot Change Log, and the Bot Registry. The Shared Rules win if they disagree with the playbook.
+
+Every run ends with a morning alert in the run's thread in #prestons-bots: what you drafted, LinkedIn messages to send (name, title, company, profile link, and the exact text), and replies to look at. If nothing is due and nothing qualifies, say so in one line. Log changes Preston gives you, and any gap or question, in the Bot Change Log instead of guessing.
 
 Do not research, draft, or contact anyone unless the request asks for a prospecting run. Never send email. Drafts only, into preston@searchable.com.
