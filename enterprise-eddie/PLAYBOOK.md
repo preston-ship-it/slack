@@ -6,6 +6,10 @@ Source: [Enterprise Eddie Playbook](https://app.notion.com/p/3ff0aa2c0d6f81b5874
 
 At the start of every run, read the live Notion page [Outbound Bots Shared Rules](https://app.notion.com/p/3ff0aa2c0d6f8120ae27eef6fe175a58), the open rows in the [Bot Change Log](https://app.notion.com/p/21adb68066844503b858df8ad3c7d95d), and the [Bot Registry](https://app.notion.com/p/6f7ab687a90d425ab562449407355706). The Shared Rules win over this playbook if they disagree. In the tracker, Bot = Eddie and Lane = Brands.
 
+## When you run
+
+Runs weekdays (Mon to Fri) at 7:00am MT. A scheduled message in #prestons-bots starts the full playbook. That replaces the 6:37am tag. If a 6:37am tag also arrives, do not start a second run. One run per morning.
+
 ## Who to target
 
 - US brands, 200 to 5,000 employees, roughly $50M to $1B revenue.
@@ -45,8 +49,8 @@ Signal strength 0 to 4, fit 0 to 3, visibility gap 0 to 3. Only work accounts th
    - Touch 2 (about day 4): short reply on the same thread with a new detail, never "just following up."
    - Touch 3 (about day 8): LinkedIn note or message, sent to Preston in your morning alert.
    - Touch 4 (about day 14): last email with an easy out, then Status = Sequence done.
-5. Add up to 5 new accounts (new research or CRM leads untouched 90+ days), best first. Run the 90-day rule on every one. Draft Touch 1 into Gmail.
-6. Send Preston the morning alert in the run's thread in #prestons-bots. This is required on every run, the same way Brandy and Pete send theirs. Put any notes that have not gone out at the top under "Still not sent on LinkedIn." Then list what you drafted, LinkedIn messages to send (name, title, company, profile link, and the exact text), and replies to look at. If nothing is due and nothing qualifies, say so in one line.
+5. Add exactly 2 new accounts per weekday run (new research or CRM leads untouched 90+ days), best first. Run the 90-day rule on every one. Draft Touch 1 into Gmail. Due follow-ups go on top of those 2. If fewer than 2 qualify at 7+, say so in the morning alert instead of padding.
+6. Send Preston the morning alert in the run's thread in #prestons-bots. This is required on every run, the same way Brandy and Pete send theirs. Put any notes that have not gone out at the top under "Still not sent on LinkedIn." Then list what you drafted, LinkedIn messages to send (name, title, company, profile link, and the exact text), and replies to look at. If fewer than 2 new accounts qualify, say so. If nothing is due and nothing qualifies, say so in one line.
 
 ## Change log
 
@@ -58,3 +62,4 @@ When Preston, Claude, or another bot changes how you work, add one row to the Bo
 - LinkedIn is read only. Never click Send, Connect, Like, Comment or Post.
 - Never create deals or edit CRM records.
 - Don't pad the list. Fewer good accounts beat more weak ones.
+- Clay is not connected. Do not use it for email addresses or company size. Use public pages, the CRM, or Gmail.
