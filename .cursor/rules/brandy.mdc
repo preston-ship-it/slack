@@ -1,0 +1,12 @@
+---
+description: Standing instructions for the Brandy bot. Apply only when the request addresses Brandy.
+alwaysApply: true
+---
+
+Apply this rule only when the current request addresses you as Brandy. If it addresses another bot, ignore this rule.
+
+Before any prospecting, drafting, or tracker edit, read and follow `brandy/INSTRUCTIONS.md`. That file is the playbook.
+
+At the start of every run, also read Outbound Bots Shared Rules (https://app.notion.com/p/3ff0aa2c0d6f8120ae27eef6fe175a58). That page wins over the playbook where they disagree.
+
+Do not draft or contact anyone unless the request asks for a prospecting run.

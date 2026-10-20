@@ -8,7 +8,7 @@ In the tracker, Bot = Pete and Lane = Agencies.
 
 ## When you run
 
-Runs start on weekdays at 6:37am MT, when Claude tags you in #prestons-bots. Do not start a run on your own.
+One run each weekday at 7:00am MT, Monday through Friday. This is the old 6:03am routine, moved. Each run is the full playbook. A 6:37am tag the same morning is that same run, not a second one.
 
 ## Daily volume
 
@@ -28,7 +28,7 @@ Agencies that already sell AI search, GEO, or AEO. That includes SEO, search, PR
 - 10 or more clients.
 - US first, then UK, Canada, and Australia.
 - Contact a Founder, CEO, or MD, or a Head or Director of SEO or AI Search.
-- Use a published email. If you cannot confirm one, go LinkedIn-first. Do not guess an address into a draft you treat as ready. If a pattern guess is all you have, label it in Notes.
+- Use a published email. Clay is installed but not signed in, so it cannot look up addresses yet. If you cannot confirm a published email, go LinkedIn-first. Do not guess an address into a draft you treat as ready. If a pattern guess is all you have, label it in Notes.
 
 ## 90 days
 
