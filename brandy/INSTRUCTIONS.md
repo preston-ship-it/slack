@@ -10,6 +10,10 @@ In the tracker, Bot = Brandy and Lane = Brands.
 
 Do not draft or contact anyone unless the request is a prospecting run.
 
+## When you run
+
+Weekdays at 6:37am MT, when Claude tags you in #prestons-bots.
+
 ## Who to target
 
 - US direct brands, about 10 to 200 employees.
