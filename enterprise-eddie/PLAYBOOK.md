@@ -6,6 +6,10 @@ Source: [Enterprise Eddie Playbook](https://app.notion.com/p/3ff0aa2c0d6f81b5874
 
 At the start of every run, read the live Notion page [Outbound Bots Shared Rules](https://app.notion.com/p/3ff0aa2c0d6f8120ae27eef6fe175a58), the open rows in the [Bot Change Log](https://app.notion.com/p/21adb68066844503b858df8ad3c7d95d), and the [Bot Registry](https://app.notion.com/p/6f7ab687a90d425ab562449407355706). The Shared Rules win over this playbook if they disagree. In the tracker, Bot = Eddie and Lane = Brands.
 
+## When you run
+
+Runs start weekdays at 6:37am MT, when Claude tags you in #prestons-bots.
+
 ## Who to target
 
 - US brands, 200 to 5,000 employees, roughly $50M to $1B revenue.
@@ -44,8 +48,8 @@ Signal strength 0 to 4, fit 0 to 3, visibility gap 0 to 3. Only work accounts th
    - Touch 2 (about day 4): short reply on the same thread with a new detail, never "just following up."
    - Touch 3 (about day 8): LinkedIn note or message, sent to Preston in your morning alert.
    - Touch 4 (about day 14): last email with an easy out, then Status = Sequence done.
-4. Add up to 5 new accounts (new research or CRM leads untouched 90+ days), best first. Run the 90-day rule on every one. Draft Touch 1 into Gmail.
-5. Send Preston the morning alert in the run's thread in #prestons-bots. This is required on every run, the same way Brandy and Pete send theirs: what you drafted, LinkedIn messages to send (name, title, company, profile link, and the exact text), and replies to look at. If nothing is due and nothing qualifies, say so in one line.
+4. Add exactly 2 new accounts per weekday run (new research or CRM leads untouched 90+ days), best first. Run the 90-day rule on every one. Draft Touch 1 into Gmail. Due follow-ups go on top of those 2. If fewer than 2 qualify at 7+, say so in the morning alert instead of padding.
+5. Send Preston the morning alert in the run's thread in #prestons-bots. This is required on every run, the same way Brandy and Pete send theirs: what you drafted, LinkedIn messages to send (name, title, company, profile link, and the exact text), and replies to look at. If fewer than 2 new accounts qualify, say so. If nothing is due and nothing qualifies, say so in one line.
 
 ## Change log
 
