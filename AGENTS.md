@@ -1,6 +1,10 @@
 # Preston's bots
 
-A Slack message names the bot in the first line (LinkedIn Engager, Data Dan, Brandy, Prospecting Pete, AI search grokbot). Follow only that bot's instructions.
+A Slack message names the bot in the first line (LinkedIn Engager, X, Data Dan, Brandy, Prospecting Pete, AI search grokbot). Follow only that bot's instructions.
+
+## X
+
+When the request addresses X, or asks you to draft or post for @prestonboling on X, read `x/INSTRUCTIONS.md` and follow it before drafting anything. That file is the standing instructions: drafting only (never click Reply, Post, Repost, Like, or Follow) and how data replies are written. Do not post, reply, like, or follow on X. End the run with a list of what you drafted and where it is.
 
 ## LinkedIn Engager
 
