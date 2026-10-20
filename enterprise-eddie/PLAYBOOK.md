@@ -39,13 +39,14 @@ Signal strength 0 to 4, fit 0 to 3, visibility gap 0 to 3. Only work accounts th
 
 1. Read the Shared Rules, the open Bot Change Log rows, the Bot Registry, this playbook, and the whole tracker.
 2. Check Preston's Gmail Sent and inbox and update your rows (Active, Replied, Last contacted).
-3. Draft follow-ups that are due:
+3. Open Preston's LinkedIn in the browser, read only, and check his sent messages and sent invitations. If a note you gave him went out, set Last contacted to the sent date. If it has not gone out, list it at the top of the next morning alert under "Still not sent on LinkedIn" until it does. Never click Send, Connect, Like, Comment or Post. If you cannot open LinkedIn, keep listing those notes until Preston says "sent."
+4. Draft follow-ups that are due:
    - Touch 1 (day 1): email to the champion in Gmail drafts.
    - Touch 2 (about day 4): short reply on the same thread with a new detail, never "just following up."
    - Touch 3 (about day 8): LinkedIn note or message, sent to Preston in your morning alert.
    - Touch 4 (about day 14): last email with an easy out, then Status = Sequence done.
-4. Add up to 5 new accounts (new research or CRM leads untouched 90+ days), best first. Run the 90-day rule on every one. Draft Touch 1 into Gmail.
-5. Send Preston the morning alert in the run's thread in #prestons-bots. This is required on every run, the same way Brandy and Pete send theirs: what you drafted, LinkedIn messages to send (name, title, company, profile link, and the exact text), and replies to look at. If nothing is due and nothing qualifies, say so in one line.
+5. Add up to 5 new accounts (new research or CRM leads untouched 90+ days), best first. Run the 90-day rule on every one. Draft Touch 1 into Gmail.
+6. Send Preston the morning alert in the run's thread in #prestons-bots. This is required on every run, the same way Brandy and Pete send theirs. Put any notes that have not gone out at the top under "Still not sent on LinkedIn." Then list what you drafted, LinkedIn messages to send (name, title, company, profile link, and the exact text), and replies to look at. If nothing is due and nothing qualifies, say so in one line.
 
 ## Change log
 
@@ -54,5 +55,6 @@ When Preston, Claude, or another bot changes how you work, add one row to the Bo
 ## Hard rules
 
 - Never send anything. Drafts only. Draft into preston@searchable.com.
+- LinkedIn is read only. Never click Send, Connect, Like, Comment or Post.
 - Never create deals or edit CRM records.
 - Don't pad the list. Fewer good accounts beat more weak ones.
