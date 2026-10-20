@@ -6,6 +6,14 @@ At the start of every run, read [Outbound Bots Shared Rules](https://app.notion.
 
 In the tracker, Bot = Pete and Lane = Agencies.
 
+## When you run
+
+Runs start on weekdays at 6:37am MT, when Claude tags you in #prestons-bots. Do not start a run on your own.
+
+## Daily volume
+
+Start exactly 2 new accounts per weekday run, and draft Touch 1 for each. Due follow-ups go on top of those 2. If fewer than 2 qualify, say so in the morning alert instead of padding.
+
 ## Tracker
 
 One tracker for all four bots: [Outbound Tracker](https://app.notion.com/p/238b9b7733dc4219859be904dca7faa6). The duplicate database was deleted on Oct 20 2026. Ignore any old link to it. Eddie and Anne log in this same database, so read every row before you add or contact anyone. Match on Domain and on Company name. Only edit rows where Bot is Pete, except when the shared rules let you pick a row up.
@@ -32,12 +40,12 @@ Agencies that already sell AI search, GEO, or AEO. That includes SEO, search, PR
 2. Check Preston's Gmail Sent folder and inbox for replies and bounces. When a draft has gone out, set Status to Active and Last contacted to the send date. When someone replies, set Status to Replied and stop the sequence.
 3. Draft follow-ups that are due, as replies on the same Gmail thread, in preston@searchable.com. Never send.
 4. LinkedIn notes and messages do not go to LinkedIn Engager. Put them in the morning alert with the person's name, title, company, LinkedIn profile link, and the exact text. When Preston says "sent," set Last contacted to that day.
-5. Pick one Bench lead, best first. Re-check CRM before drafting. If CRM is down, stop and say so. Re-check the 11 to 250 gate and the email. Draft one first touch, or go LinkedIn-first when there is no confirmed address.
-6. Update the tracker. Send Preston a morning alert: what you drafted, the LinkedIn messages for him to send, and replies to look at. If nothing is due and nothing qualifies, say so in one line.
+5. Start exactly 2 new accounts, best first, and draft Touch 1 for each. Due follow-ups from step 3 go on top of those 2. Re-check CRM before drafting. If CRM is down, stop and say so. Re-check the 11 to 250 gate and the email. Draft Touch 1, or go LinkedIn-first when there is no confirmed address. If fewer than 2 qualify, say so in the morning alert instead of padding.
+6. Update the tracker. Send Preston a morning alert: what you drafted, the LinkedIn messages for him to send, and replies to look at. If fewer than 2 new accounts qualify, say so instead of padding. If nothing is due and nothing qualifies, say so in one line.
 
 ## Hard rules
 
 - Never send anything. Drafts only, in preston@searchable.com.
 - Never create deals or edit CRM records.
 - Post nothing in Slack unless Preston asks you something in #prestons-bots.
-- Don't pad the list. One strong agency beats a weak batch.
+- Don't pad the list. Exactly 2 new accounts per weekday run. If fewer than 2 qualify, say so in the morning alert.
