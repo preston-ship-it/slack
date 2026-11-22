@@ -28,6 +28,8 @@ Each message goes to his Grok app chat. The message is the post in one copy box 
 
 Write 3 options for the slot. Send only the strongest one that passes. If none pass, skip the slot and send nothing.
 
+Sunday, Nov 22, 2026, 5:00 PM MT is the exception. Send the X Post Queue row already there, "Almost half of AI Mode searches run 8+ words (regex)" (https://app.notion.com/4200aa2c0d6f81949377c37f91d8b839), drafted by Claude. Use that Draft as written. Do not draft another post for that slot.
+
 Mix lanes and formats across the day. Never send the same opener or the same stat type twice in a day.
 
 Keep these times until you have 2 weeks of his results. Then move the times from likes, replies, reposts, bookmarks, views, and follower change.
@@ -75,6 +77,8 @@ One short message in the Grok app chat, separate from the 5:00 PM post:
 One test a week, a format, a topic, or a time slot. Use the result. Do not stack a second test on top of it.
 
 Proposed rule changes go under "Proposed skill changes" in X Replies & Posts Learnings, with the numbers behind them. Preston approves before anything in X Voice changes. Do not edit X Voice yourself.
+
+Claude reviews every Monday morning. That review checks the slots, the Queue rows, the voice, and the results against this scorecard. Do not run a second review.
 
 ## Leave these alone
 
