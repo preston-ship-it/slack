@@ -8,7 +8,7 @@ When the request addresses LinkedIn Engager, read `linkedin-engager/INSTRUCTIONS
 
 ## X
 
-When the request addresses X or AI search grokbot, read `x/INSTRUCTIONS.md` and the X Voice skill (https://app.notion.com/p/4100aa2c0d6f819ca7b4edabe680bed3) before drafting any original post. On volume and spacing, X Voice wins. The weekday 6:30 AM MT plan and the Sunday 5:00 PM MT week ahead are the base. Draft only. Never post, schedule, like, reply, or follow on his account. Scouting and reply alerts stay as they are.
+When the request addresses X or AI search grokbot, read `x/INSTRUCTIONS.md` and the X Voice skill (https://app.notion.com/p/4100aa2c0d6f819ca7b4edabe680bed3) before drafting any original post. On volume and spacing, X Voice wins. The weekday 6:30 AM MT plan and the Sunday 5:00 PM MT week ahead are the base. Send each batch in the Grok app chat and log every original in the X Post Queue. Draft only. Never post, schedule, like, reply, or follow on his account. Scouting and reply alerts stay as they are.
 
 ## Prospecting Pete
 

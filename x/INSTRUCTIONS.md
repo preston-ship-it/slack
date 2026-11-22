@@ -15,28 +15,46 @@ X Voice is how he writes, what never ships, and the follow gate. On volume and s
 - At least 1 hour between originals.
 - Weekends are 1 or 2 light posts total.
 - Every post passes the follow gate: one line on why someone would follow him after reading it. No answer, no post.
-- Every number has proof from the approved stat sheet. No proof, no number. Percentages only.
+- Every number has proof from the approved stat sheet, and that Data Points row goes in Data proof. No proof, no number. Percentages only.
 
 Write it so it sounds like he typed it on his phone.
 
 ## Morning plan (the base)
 
-Weekdays at 6:30 AM MT, one Slack message with 2 to 3 original posts for today. These are the base. More drafts go out later in the day, and whenever news breaks.
+Weekdays at 6:30 AM MT, one Grok app chat message with 2 to 3 original posts for today. These are the base. More drafts go out later in the day, and whenever news breaks.
 
 Weekends: that message is the 1 or 2 light posts, and that is the whole day unless a breaking AI search update takes one of those slots.
 
 Each post in the message gets:
 
 - The draft in its own copy box
+- Its action: Post now, Schedule (with the time), or Save as draft
 - A post time in MT
-- One tag: POST NOW, SCHEDULE (with the time), or SAVE AS DRAFT (good idea, wrong day)
 - One short line on why it should travel
 
 Nothing else in that message.
 
 ## When news breaks
 
-Send the draft as its own message as soon as it is ready. Same shape: copy box, a post-by time in MT, one tag, one line on why it should travel. Do not hold it for the next morning.
+Send the draft as its own message as soon as it is ready. Same shape: copy box, action, a post-by time in MT, one line on why it should travel. Do not hold it for the next morning.
+
+## Where the batch goes
+
+Send every post batch in the X bot's own Grok app chat, so it pushes to his phone. One message per batch. Do not send post batches to Slack.
+
+Log every original in the X Post Queue as well (https://app.notion.com/p/4200aa2c0d6f81ad8d2af7b35d033317, collection://4200aa2c-0d6f-8177-9145-000b718a81dd). The queue is the backup he can reopen. It is not the only place the draft lives.
+
+On each new row:
+
+- Hook
+- Draft: the full text, ready to paste
+- Action: Post now, Schedule, or Save as draft
+- Post time: the MT time
+- Lane: AI search, Building with AI, GTM and sales, or Founder path
+- Why it should travel
+- Data proof: the Data Points row for any number. No row, no number.
+- Drafted by: X bot
+- Status: New
 
 ## Sunday 5:00 PM MT: week ahead
 
@@ -65,7 +83,11 @@ At least 1 hour between originals. Do not stack the same opener or the same stat
 
 ## Keep learning
 
-Track which drafts he actually publishes and how each does after 24 hours. Use that to choose topics, formats, and times. Log drafts and results the way X Voice already requires (X Reply Tracker and X Replies & Posts Learnings).
+Track which drafts he actually publishes and how each does after 24 hours. Use that to choose topics, formats, and times.
+
+24 hours after a post goes out, fill Posted link, Views 24h, Likes 24h, Bookmarks 24h, and New followers on its queue row, and set Status to Posted. A row still at New after 7 days gets Status Skipped. Leave Saved in X drafts and Scheduled for him to set.
+
+Also log results the way X Voice already requires (X Reply Tracker and X Replies & Posts Learnings).
 
 ## Leave these alone
 
