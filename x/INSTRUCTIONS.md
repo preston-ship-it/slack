@@ -1,69 +1,36 @@
 # X
 
-Standing instructions for original posts on @prestonboling. Scouting and reply alerts stay as they are. This file adds the original-post job on top of them.
+Standing instructions for original posts on @prestonboling. Scouting and reply alerts stay as they are.
 
-Draft only. Never post, schedule, like, reply, or follow on his account. He publishes every word.
+Draft only. Read his account to see what he published. Never post, schedule, like, reply, or follow.
+
+The slot clock below replaces the morning plan and the Sunday week-ahead lineup. X Voice still decides how a post is written and whether it is good enough to send.
 
 ## What wins
 
 Before every original, read the X Voice skill: https://app.notion.com/p/4100aa2c0d6f819ca7b4edabe680bed3
 
-X Voice is how he writes, what never ships, and the follow gate. On volume and spacing it wins over this job. That means:
-
-- Several originals a day. The morning batch is the base, not the cap.
-- AI search updates go out as they happen, not only in the morning batch.
-- At least 1 hour between originals.
-- Weekends are 1 or 2 light posts total.
-- Every post passes the follow gate: one line on why someone would follow him after reading it. No answer, no post.
-- Every number has proof from the approved stat sheet, and that Data Points row goes in Data proof. No proof, no number. Percentages only.
+Run the X Voice checks, the follow gate, and data proof. No answer on why someone would follow him after reading it, no post. Every number needs a Data Points row in Data proof. No row, no number. Percentages only.
 
 Write it so it sounds like he typed it on his phone.
 
-## Morning plan (the base)
+## One post at a time
 
-Weekdays at 6:30 AM MT, one Grok app chat message with 2 to 3 original posts for today. These are the base. More drafts go out later in the day, and whenever news breaks.
+Send one post when it should go out. Do not batch the day.
 
-Weekends: that message is the 1 or 2 light posts, and that is the whole day unless a breaking AI search update takes one of those slots.
+Weekdays, about: 7:00 AM, 9:30 AM, 12:00 PM, 3:00 PM, and 6:00 PM MT.
 
-Each post in the message gets:
+Weekends, about: 9:00 AM and 5:00 PM MT.
 
-- The draft in its own copy box
-- Its action: Post now, Schedule (with the time), or Save as draft
-- A post time in MT
-- One short line on why it should travel
+When big AI search news breaks, send one extra right away. Max 8 posts a day, at least 1 hour apart. Count the extra toward the 8.
 
-Nothing else in that message.
+Each message goes to his Grok app chat. The message is the post in one copy box and nothing else. If it is better saved for later, put "save as draft" on one line above the box. Do not send post messages to Slack.
 
-## When news breaks
+Write 3 options for the slot. Send only the strongest one that passes. If none pass, skip the slot and send nothing.
 
-Send the draft as its own message as soon as it is ready. Same shape: copy box, action, a post-by time in MT, one line on why it should travel. Do not hold it for the next morning.
+Mix lanes and formats across the day. Never send the same opener or the same stat type twice in a day.
 
-## Where the batch goes
-
-Send every post batch in the X bot's own Grok app chat, so it pushes to his phone. One message per batch. Do not send post batches to Slack.
-
-Log every original in the X Post Queue as well (https://app.notion.com/p/4200aa2c0d6f81ad8d2af7b35d033317, collection://4200aa2c-0d6f-8177-9145-000b718a81dd). The queue is the backup he can reopen. It is not the only place the draft lives.
-
-On each new row:
-
-- Hook
-- Draft: the full text, ready to paste
-- Action: Post now, Schedule, or Save as draft
-- Post time: the MT time
-- Lane: AI search, Building with AI, GTM and sales, or Founder path
-- Why it should travel
-- Data proof: the Data Points row for any number. No row, no number.
-- Drafted by: X bot
-- Status: New
-
-## Sunday 5:00 PM MT: week ahead
-
-One message:
-
-- Next week's lineup, each item with a day and a time in MT, so he can schedule them at once
-- 3 lines on last week: best post, worst post, and what you are changing because of it
-
-The lineup is the base. A breaking AI search update still gets its own draft when it happens. Put the weekly X article on the lineup.
+Keep these times until you have 2 weeks of his results. Then move the times from likes, replies, reposts, bookmarks, views, and follower change.
 
 ## What to post
 
@@ -71,23 +38,43 @@ Lanes: AI search (main), building with AI and GTM engineering, sales and go-to-m
 
 Formats that travel, from the wespreadjam breakdown (https://app.notion.com/p/4200aa2c0d6f81198c4ef45bfd9ec311): a known company plus a big number plus something people can save, how-tos and lists people bookmark, strong takes, and an X article about once a week. Skip product plugs.
 
-Originals come from his material: the morning capture, his posts, replies and edits, Searchable data with proof, or Radar evidence he has a real angle on. A news restatement anyone could write does not ship. Shout-outs follow X Voice.
+Originals come from his material: his posts, replies and edits, Searchable data with proof, or Radar evidence he has a real angle on. A news restatement anyone could write does not ship. Shout-outs follow X Voice.
 
 Never: kids, sports, Profound or any other competitor, a customer name, or a Searchable number that is not a percentage.
 
-## Timing
+## X Post Queue
 
-Pick times from his own results: likes, replies, reposts, bookmarks, and views by day and hour. Until there is enough of his data, use weekday mornings MT and test one other window a week.
+Log the one post you send, not the two you cut. The queue is https://app.notion.com/p/4200aa2c0d6f81ad8d2af7b35d033317 (collection://4200aa2c-0d6f-8177-9145-000b718a81dd). He never has to touch Notion. You update it.
 
-At least 1 hour between originals. Do not stack the same opener or the same stat type on one day.
+On each new row:
 
-## Keep learning
+- Hook
+- Draft: the full text, ready to paste
+- Action: Post now, or Save as draft
+- Post time: the MT slot
+- Lane: AI search, Building with AI, GTM and sales, or Founder path
+- Why it should travel
+- Data proof: the Data Points row for any number
+- Drafted by: X bot
+- Status: New
 
-Track which drafts he actually publishes and how each does after 24 hours. Use that to choose topics, formats, and times.
+Check his account after the slot. When a post is live, set Status to Posted, fill Posted link and Posted text, and leave Draft as what you sent. A row still New after 7 days gets Status Skipped.
 
-24 hours after a post goes out, fill Posted link, Views 24h, Likes 24h, Bookmarks 24h, and New followers on its queue row, and set Status to Posted. A row still at New after 7 days gets Status Skipped. Leave Saved in X drafts and Scheduled for him to set.
+24 hours after it goes out, fill Views 24h, Likes 24h, Replies 24h, Reposts 24h, Bookmarks 24h, and New followers.
 
-Also log results the way X Voice already requires (X Reply Tracker and X Replies & Posts Learnings).
+If he changed the wording before posting, add one line to the Edit log in X Replies & Posts Learnings (https://app.notion.com/p/40c0aa2c0d6f815abff8d0a6e4a9ba64): the draft, what he posted, what changed, and one reason tag.
+
+## Sunday 5:00 PM MT scorecard
+
+One short message in the Grok app chat, separate from the 5:00 PM post:
+
+- Followers this week vs last week
+- The best 3 posts and the worst 3, with one reason each
+- The one test you will run next week
+
+One test a week, a format, a topic, or a time slot. Use the result. Do not stack a second test on top of it.
+
+Proposed rule changes go under "Proposed skill changes" in X Replies & Posts Learnings, with the numbers behind them. Preston approves before anything in X Voice changes. Do not edit X Voice yourself.
 
 ## Leave these alone
 
