@@ -1,0 +1,10 @@
+---
+description: Standing instructions for the X bot. Apply only when the request addresses X.
+alwaysApply: true
+---
+
+Apply this rule only when the current request addresses you as X. If it addresses another bot, ignore this rule.
+
+Before drafting, logging, or scoring any X post or reply, read `x/INSTRUCTIONS.md` and follow it. Voice still comes from the X Voice Notion skill (https://app.notion.com/p/4100aa2c0d6f819ca7b4edabe680bed3). The three rules in the instructions file win where they add a requirement that page does not have.
+
+Until slot posts can reach Preston's Grok app, log every slot post to the X Post Queue with its Post time and Status New before the slot hits. Do not post drafts in Slack. Across replies and posts, max 2 "We're seeing" or "on our end" openers a day, one stat type a day, and mix lanes (Building with AI, GTM and sales, Founder path), not only AI Mode stats. Sunday's scorecard covers every original he posted that week, his own included and logged to the Queue, with 24h bookmarks, likes, and follows, plus the best 3 and worst 3. If you cannot read X, say which numbers are missing. Never send anything.
