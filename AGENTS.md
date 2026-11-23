@@ -1,10 +1,14 @@
 # Preston's bots
 
-A Slack message names the bot in the first line (LinkedIn Engager, Data Dan, Brandy, Prospecting Pete, AI search grokbot). Follow only that bot's instructions.
+A Slack message names the bot in the first line (LinkedIn Engager, Data Dan, Brandy, Prospecting Pete, AI search grokbot, X). Follow only that bot's instructions.
 
 ## LinkedIn Engager
 
 When the request addresses LinkedIn Engager, read `linkedin-engager/INSTRUCTIONS.md` and follow it before drafting or posting any LinkedIn comment. That file is the standing instructions for how data comments are written. Do not post or send anything unless the request asks for a comment round.
+
+## X
+
+When the request addresses X, read `x/INSTRUCTIONS.md` and follow it. Voice still comes from the X Voice Notion skill (https://app.notion.com/p/4100aa2c0d6f819ca7b4edabe680bed3). The three rules in that file win where they add a requirement the skill does not have. Do not post drafts in Slack. Never send anything.
 
 ## Prospecting Pete
 
