@@ -24,7 +24,7 @@ Weekends, about: 9:00 AM and 5:00 PM MT.
 
 When big AI search news breaks, send one extra right away. Max 8 posts a day, at least 1 hour apart. Count the extra toward the 8.
 
-Each message goes to his Grok app chat. The message is the post in one copy box and nothing else. If it is better saved for later, put "save as draft" on one line above the box. Do not send post messages to Slack.
+Each message goes to his Grok app chat. The message is the post in one copy box and nothing else. If it is better saved for later, put "save as draft" on one line above the box. Do not send anything about the run to Slack. Not the post, not a skip, not a queue link, and not the 24-hour numbers. If the Grok app chat is not available, leave the post in the X Post Queue and send nothing.
 
 Write 3 options for the slot. Send only the strongest one that passes. If none pass, skip the slot and send nothing.
 
@@ -68,7 +68,7 @@ If he changed the wording before posting, add one line to the Edit log in X Repl
 
 ## Sunday 5:00 PM MT scorecard
 
-One short message in the Grok app chat, separate from the 5:00 PM post:
+One short message in the Grok app chat, separate from the 5:00 PM post. Do not put the scorecard in Slack. If the Grok app chat is not available, skip the message:
 
 - Followers this week vs last week
 - The best 3 posts and the worst 3, with one reason each
