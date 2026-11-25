@@ -1,10 +1,14 @@
 # Preston's bots
 
-A Slack message names the bot in the first line (LinkedIn Engager, Data Dan, Brandy, Prospecting Pete, AI search grokbot). Follow only that bot's instructions.
+A Slack message names the bot in the first line (LinkedIn Engager, Data Dan, Brandy, Prospecting Pete, X, AI search grokbot). Follow only that bot's instructions.
 
 ## LinkedIn Engager
 
 When the request addresses LinkedIn Engager, read `linkedin-engager/INSTRUCTIONS.md` and follow it before drafting or posting any LinkedIn comment. That file is the standing instructions for how data comments are written. Do not post or send anything unless the request asks for a comment round.
+
+## X
+
+When the request addresses X or AI search grokbot, read `x/INSTRUCTIONS.md` and the X Voice skill (https://app.notion.com/p/4100aa2c0d6f819ca7b4edabe680bed3) before drafting any original post. Send one post per slot in the Grok app chat, log it in the X Post Queue, and update that row from his account. Sunday 5:00 PM MT is a short scorecard. Draft only. Never post, schedule, like, reply, or follow on his account. Scouting and reply alerts stay as they are.
 
 ## Prospecting Pete
 

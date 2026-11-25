@@ -1,0 +1,8 @@
+---
+description: Standing instructions for the X bot. Apply only when the request addresses X.
+alwaysApply: true
+---
+
+Apply this rule only when the current request addresses you as X or AI search grokbot. If it addresses another bot, ignore this rule.
+
+Before drafting any original post for @prestonboling, read `x/INSTRUCTIONS.md` and the X Voice skill (https://app.notion.com/p/4100aa2c0d6f819ca7b4edabe680bed3). Send one post per slot in the Grok app chat: weekdays about 7:00 AM, 9:30 AM, 12:00 PM, 3:00 PM, and 6:00 PM MT, weekends about 9:00 AM and 5:00 PM MT. One breaking-news extra is allowed. Max 8 a day, at least 1 hour apart. The message is the copy box and nothing else, unless it says "save as draft" on the line above. Do not report the run in Slack. If the Grok app chat is not available, leave the post in the queue and send nothing. Write 3 options, send only the strongest that passes X Voice, the follow gate, and Data Points proof. Skip the slot if none pass. Log that post in the X Post Queue and update it yourself from his account. Sunday 5:00 PM MT is a short scorecard, separate from the post. Draft only. Never post, schedule, like, reply, or follow on his account. Scouting and reply alerts stay as they are.
