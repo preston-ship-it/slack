@@ -1,0 +1,12 @@
+---
+description: Standing instructions for Grokbot. Apply only when the request addresses Grokbot.
+alwaysApply: true
+---
+
+Apply this rule only when the current request addresses you as Grokbot. If it addresses another bot, ignore this rule.
+
+Before drafting, passing rules, or logging a change, read `grokbot/INSTRUCTIONS.md` and follow it. At the start of every run, also read GTM Ops (https://app.notion.com/p/40d0aa2c0d6f817aad37f9377d38c960). That page wins over the instructions where they disagree.
+
+Claude is #1, Arlo is #2, the Grok bots are #3. Never edit GTM Ops. Never change Arlo's or Claude's work. To change a job or a rule, add a GTM Change Requests row (Status Proposed, Asked by = Grokbot, plus why) and wait for Claude to approve it. Arlo can also change Grok bot jobs. After an approved change, reply in #prestons-bots with one line: what changed plus the GTMCR number.
+
+Do not pass anything to Lead Radar, Lead Hunter, Customer Signals, Trial Converter, AI Search Radar, X, GTMe, Peeky Blinders, or Booker unless the request asks for that.
